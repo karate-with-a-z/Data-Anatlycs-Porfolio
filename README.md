@@ -15,11 +15,11 @@ Check out my portfolio below and feel free to reach out to me with any questions
 ## Porftolio Projects
 
 ## Education
-Souther New Hampshire University, Bachelor's of Science, Data Analytics
-Community College of Philadelphia, Associate's of Science, Computer Science
+Souther New Hampshire University, _Bachelor's of Science_, Data Analytics \
+Community College of Philadelphia, _Associate's of Science_, Computer Science
 
 ## Certificates
 
 ## Reach Me
-LinkedIn: [https://www.linkedin.com/in/maritzabel-zarate-aguilar/](https://www.linkedin.com/in/maritzabel-zarate-aguilar/)
+LinkedIn: [https://www.linkedin.com/in/maritzabel-zarate-aguilar/](https://www.linkedin.com/in/maritzabel-zarate-aguilar/) \
 E-mail: [maritzabel.z@icloud.com](maritzabel.z@icloud.com)
