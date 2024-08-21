@@ -14,6 +14,20 @@ Check out my portfolio below and feel free to reach out to me with any questions
 
 ## Porftolio Projects
 
+### Flower Shop Database
+#### Repo: 
+#### Goal:
+#### Description:
+#### Skills: 
+#### Results: 
+
+### 365 Platform Customer Conversion Rates
+#### Repo: 
+#### Goal:
+#### Description:
+#### Skills: 
+#### Results: 
+
 ## Education
 Souther New Hampshire University, _Bachelor's of Science_, Data Analytics \
 Community College of Philadelphia, _Associate's of Science_, Computer Science
